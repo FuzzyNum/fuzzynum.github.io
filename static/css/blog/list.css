@@ -1,12 +1,11 @@
+
 .post-link {
     color: inherit;
 }
 
 .post {
-    background-color: hwb(298 17% 36% / 0.718);
-    border: 2px solid gray;
-    padding: 11px 25px;
+    background-color: #f5f5f5;
+    padding: 10px 25px;
     margin: 20px 0;
     border-radius: 10px;
-    overflow: hidden;
 }
