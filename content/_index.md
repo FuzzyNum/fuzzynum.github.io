@@ -8,7 +8,7 @@ draft: false
 
 *"Don't cry because it's over. Smile because it happened"*
 
-Welcome to my website! I'm an American high school student passionate about AI and math.  
+Welcome to my website! I'm an American high school student interested in AI and math.  
 I'm currently working on self-studying Large Language Models and teaching myself German.
 
 
