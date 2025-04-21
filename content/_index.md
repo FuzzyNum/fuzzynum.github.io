@@ -12,4 +12,4 @@ Welcome to my website! I'm an American high school student interested in AI and 
 I'm currently working on self-studying Large Language Models and teaching myself German.
 
 
-[Email](mailto:lhhoward.125@gmail.com), [Github](https://github.com/fuzzynum)
+[Email](mailto:lhhoward.125@gmail.com) [Github](https://github.com/fuzzynum)
