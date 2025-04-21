@@ -4,6 +4,7 @@
 
 .post {
     background-color: hwb(298 17% 36% / 0.718);
+    border: 2px solid gray;
     padding: 11px 25px;
     margin: 20px 0;
     border-radius: 10px;
